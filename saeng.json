@@ -4,8 +4,18 @@
 
 
 {
-         "name": "TH-DTAC-GAME-VIP",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/MaiSungVPN/main/TH-DTAC-GAME-VIP.ovpn"
+         "name": "TH01-DTAC-GAME-VIP",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/MaiSungVPN/main/TH01-DTAC-GAME-VIP.ovpn"
+      }
+,
+{
+         "name": "TH02-DTAC-GAME-VIP",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/MaiSungVPN/main/TH02-DTAC-GAME-VIP.ovpn"
+      }
+,
+{
+         "name": "TH03-DTAC-GAME-VIP",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/MaiSungVPN/main/TH03-DTAC-GAME-VIP.ovpn"
       }
 ,
 {
@@ -14,33 +24,23 @@
       }
 ,
 {
-         "name": "DTAC-NOPRO-FREE02",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/MaiSungVPN/main/DTAC-NOPRO-FREE02.ovpn"
+         "name": "TH01-TRUE-GAME-VIP",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/MaiSungVPN/main/TH01-TRUE-GAME-VIP.ovpn"
       }
 ,
 {
-         "name": "DTAC-NOPRO-FREE03",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/MaiSungVPN/main/DTAC-NOPRO-FREE03.ovpn"
+         "name": "TH02-TRUE-GAME-VIP",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/MaiSungVPN/main/TH02-TRUE-GAME-VIP.ovpn"
       }
 ,
 {
-         "name": "TH-TRUE-GAME-VIP",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/MaiSungVPN/main/TH-TRUE-GAME-VIP.ovpn"
+         "name": "TH03-TRUE-GAME-VIP",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/MaiSungVPN/main/TH03-TRUE-GAME-VIP.ovpn"
       }
 ,
 {
          "name": "TRUE-NOPRO-FREE01",
          "url": "https://raw.githubusercontent.com/MaiSungVPN/MaiSungVPN/main/TRUE-NOPRO-FREE01.ovpn"
-      }
-,
-{
-         "name": "TRUE-NOPRO-FREE02",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/MaiSungVPN/main/TRUE-NOPRO-FREE02.ovpn"
-      }
-,
-{
-         "name": "TRUE-NOPRO-FREE03",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/MaiSungVPN/main/TRUE-NOPRO-FREE03.ovpn"
       }
 
 
@@ -50,11 +50,9 @@
 "message":"
 💥DTAC NOPRO💯
 💥TRUE NOPRO💯
-🌟VIP၁လ၅၀ဘတ်💰
-🌟VIP၂လ၉၀ဘတ်💰
-🌟VIP၃လ၁၃၅ဘတ်💰
-💥နေ့စွဲ 14-07-22✅
-\n\nConfig by:Mr.Saeng",
+🌟VIP၁လ၄၀ဘတ်💰
+💥နေ့စွဲ 19-07-22✅
+\n\nအပ်ဒိတ်လုပ်ပါ",
 "title":"ဖိုင်အသစ်တွေ့ရှိသည်" ,
-   "version":6
+   "version":7
 }
